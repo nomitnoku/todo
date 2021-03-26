@@ -1,0 +1,17 @@
+.tab {
+    cursor: pointer;
+    color: $medium;
+}
+.selected-tab {
+    pointer-events: none;
+    color: $primary;
+    font-weight: bold;
+    border-bottom: 3px solid $primary;
+}
+
+.add-task {
+    position: absolute;
+    bottom: 10%;
+    right: 3%;
+    border-radius: 50%;
+}
