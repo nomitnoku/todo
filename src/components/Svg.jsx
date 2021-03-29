@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {
-   Search, ArrowHead, Trash, EditIcon,
+  Search, ArrowHead, Trash, EditIcon,
 } from './svg';
 
 const Svg = (props) => {
